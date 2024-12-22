@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **rohit.raj.bhandari07@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-SuG9Gft72-fBgmodwILRKToZFtC017K/view](https://drive.google.com/file/d/1-SuG9Gft72-fBgmodwILRKToZFtC017K/view)
+- 📄 Know about my experiences https://www.linkedin.com/in/rohit-bhandari-5b4994177/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
