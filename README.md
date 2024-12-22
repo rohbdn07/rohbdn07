@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AWS services and more depth on Typescript.**
 
-- 👯 Currently, I’m looking for a job **as a full-stack developer (Front-end).**
+- 👯 Currently, I’m working **as a full-stack developer and Automation tester.**
 
 - 👨‍💻 All of my projects are available at [https://rohitbhandari13.web.app/](https://rohitbhandari13.web.app/)
 
