@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohbdn07" alt="rohbdn07" /></a> </p>
 
+- 🚧 **Currently less active on personal projects due to work commitments**. As a result, some of my projects haven't been updated or improved in the past couple of years. Please keep in mind that these projects were developed a few years ago, and I’m excited to revisit and improve them when time allows!
+
 - 🔭 I've worked on several self-initiated projects driven by curiosity and a passion for learning. While my current professional commitments limit the time I can dedicate to personal projects, I’m always exploring new ideas and aiming to return to building soon.
 
 - 👯 Currently, I’m working **as a Full-stack developer and QA Automation tester.**
