@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rohit Bhandari</h1>
-<h3 align="center">A passionate Full stack web developer, an Engineer and a Learner | Tech enthusiast | Social person</h3>
+<h3 align="center">A passionate Full stack web developer and a Learner | Tech enthusiast | Social person</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohbdn07" alt="rohbdn07" /></a> </p>
 
-- 🔭 I have made **some self-made projects.**
+- 🔭 I've worked on several self-initiated projects driven by curiosity and a passion for learning. While my current professional commitments limit the time I can dedicate to personal projects, I’m always exploring new ideas and aiming to return to building soon.
 
-- 👯 Currently, I’m working **as a full-stack developer and Automation tester.**
+- 👯 Currently, I’m working **as a Full-stack developer and QA Automation tester.**
 
 - 👨‍💻 All of my projects are available at [https://rohitbhandari13.web.app/](https://rohitbhandari13.web.app/)
 
