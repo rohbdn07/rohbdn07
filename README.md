@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohbdn07" alt="rohbdn07" /></a> </p>
 
-- 🔭 I’m currently working on **some self-made projects.**
+- 🔭 I have made **some self-made projects.**
 
 - 👯 Currently, I’m working **as a full-stack developer and Automation tester.**
 
