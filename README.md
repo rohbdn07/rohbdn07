@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **some self-made projects.**
 
-- 🌱 I’m currently learning **AWS services and more depth on Typescript.**
-
 - 👯 Currently, I’m working **as a full-stack developer and Automation tester.**
 
 - 👨‍💻 All of my projects are available at [https://rohitbhandari13.web.app/](https://rohitbhandari13.web.app/)
