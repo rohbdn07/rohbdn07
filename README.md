@@ -9,7 +9,7 @@
 
 - 👯 Currently, I’m working **as a Full-stack developer and QA Automation tester.**
 
-- 👨‍💻 All of my projects are available at [https://rohitbhandari13.web.app/](https://rohitbhandari13.web.app/)
+- 👨‍💻 All of my projects are available at [https://rohitbhandari13.web.app/](https://rohitbhandari13.web.app/) (Disclaimer: Content may not reflect the latest updates.)
 
 - 📫 How to reach me **rohit.raj.bhandari07@gmail.com**
 
