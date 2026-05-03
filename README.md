@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Rohit Bhandari</h1>
-<h3 align="center">A passionate Full stack web developer and a Learner | Tech enthusiast | Social person</h3>
+<h3 align="center">A passionate Full-stack developer and QA Automation tester | Exploring AI, LLMs, RAG & MCP | Tech enthusiast | Social person</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohbdn07" alt="rohbdn07" /></a> </p>
 
-- 🚧 **Currently less active on personal projects due to work commitments**. As a result, some of my projects haven't been updated or improved in the past couple of years. Please keep in mind that these projects were developed a few years ago, and I’m excited to revisit and improve them when time allows!
+- 🚧 🚀 **After a quiet spell, recently back to add a few new projects after a period of inactivity!**
+Spending my time building cool things at the intersection of AI and automation — from MCP integrations with Claude AI to n8n workflow automation and large-scale data pipelines. Currently geeking out on RAG, vector databases, and LangChain. Open to collabs and conversations!
 
-- 🔭 I've worked on several self-initiated projects driven by curiosity and a passion for learning. While my current professional commitments limit the time I can dedicate to personal projects, I’m always exploring new ideas and aiming to return to building soon.
+- ⚠️ Note: Some earlier repositories were built during my initial learning journey and may be outdated or unmaintained. They reflect where I started.
 
-- 👯 Currently, I’m working **as a Full-stack developer and QA Automation tester.**
-
-- 👨‍💻 All of my projects are available at [https://rohitbhandari13.web.app/](https://rohitbhandari13.web.app/) (Disclaimer: Content may not reflect the latest updates.)
+- 🔭 I've worked on several self-initiated projects driven by curiosity and a passion for learning. 
+- 👯 Currently working as a Full-stack developer and QA Automation tester. Exploring AI and its related topics including LLMs, RAG, and MCP.
 
 - 📫 How to reach me **rohit.raj.bhandari07@gmail.com**
 
