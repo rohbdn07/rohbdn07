@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rohit Bhandari</h1>
 <h3 align="center">A passionate Full-stack developer and QA Automation tester | Exploring AI, LLMs, RAG & MCP | Tech enthusiast | Social person</h3>
 
+💻 Full stack developer with 3+ years of experience delivering web, mobile, and desktop applications across industrial and public-
+sector clients in Finland. Experienced in working directly with clients in a consulting environment, comfortable working across the
+full stack, QA and picking up new technologies as the project demands.
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohbdn07" alt="rohbdn07" /></a> </p>
 
 - 🚧 🚀 **After a quiet spell, recently back to add a few new projects after a period of inactivity!**
@@ -9,7 +13,7 @@ Spending my time building cool things at the intersection of AI and automation �
 - ⚠️ Note: Some earlier repositories were built during my initial learning journey and may be outdated or unmaintained. They reflect where I started.
 
 - 🔭 I've worked on several self-initiated projects driven by curiosity and a passion for learning. 
-- 👯 Currently working as a Full-stack developer and QA Automation tester. Exploring AI and its related topics including LLMs, RAG, and MCP.
+- Currently, Exploring AI and its related topics including LLMs, RAG, and MCP.
 
 - 📫 How to reach me **rohit.raj.bhandari07@gmail.com**
 
